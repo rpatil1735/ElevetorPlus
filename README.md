@@ -1,0 +1,2 @@
+# ElevetorPlus
+static website
